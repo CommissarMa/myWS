@@ -26,7 +26,7 @@ public class Register{
             //然后可以进行数据库插入该新用户的操作
 
             //返回注册的结果
-            return "User:"+user.getName()+"register success!";
+            return "User:"+user.getName()+"register already!";
         }
 
     }
